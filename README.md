@@ -21,5 +21,5 @@ Do your best to get a high score, and have fun!
 Final Project for UAlbany Spring 2024 ICSI 471/571 Computer Vision Course. \
 Version: 1.0 \
 Authors: Stephen Alvarez, Aaliyah Hussain, Shaima Hussaini, Salwah Riaz, Anusha Tiwari \
-GitHub Repository link: https://github.com/AnushaTiwari5/CV_Final
+GitHub Repository link: https://github.com/AnushaTiwari5/MickeyRun_ICSI_471_Spring24
 
